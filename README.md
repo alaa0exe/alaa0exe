@@ -4,8 +4,7 @@
 
 ### 𝑀𝒶𝓀𝒾𝓂𝒶...
 
-💻 Computer Science Student  
-🔐 Cybersecurity Enthusiast
+ who Care's 
 
 </div>
 
@@ -13,15 +12,15 @@
 
 ### 🕯️ About me
 
-- 🌙 L2 Computer Science Student
-- 🔐 Exploring Cybersecurity
-- 💻 Learning C and Python
-- 🖤 Quietly building my own world.
+-  L2 Computer Science Student
+-  Cybersecurity Enthusiast
+-  Learning C and Python
+-  Quietly building my own world.
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux,LinkedIn" />
 </p>
 
 <div align="center">
