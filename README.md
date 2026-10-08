@@ -1,8 +1,8 @@
 <div align="center">
 
-# Heey. 🖤
+# Heey. 
 
-### 𝑀𝒶𝓀𝒾𝓂𝒶 𝓌𝒶𝓉𝒸𝒽𝒾𝓃𝑔...
+### 𝑀𝒶𝓀𝒾𝓂𝒶...
 
 💻 Computer Science Student  
 🔐 Cybersecurity Enthusiast
@@ -29,5 +29,5 @@
 `Control is a form of love.`
 <div align="center">
 
-# Heey. 🖤
+
 </div>
