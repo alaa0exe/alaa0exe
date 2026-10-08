@@ -31,6 +31,7 @@
 
 
 </div>
+
 <div align="center">
   <img src="./makima-banner.png" width="100%" />
 </div>
