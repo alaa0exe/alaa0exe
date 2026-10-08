@@ -2,7 +2,7 @@
 
 # Heey. 
 
-### 𝑀𝒶𝓀𝒾𝓂𝒶...
+### makima!!
 
  who Care's 
 
@@ -10,14 +10,14 @@
 
 ---
 
-### 🕯️ About me
+###  About me
 
 -  L2 Computer Science Student
 -  Cybersecurity Enthusiast
 -  Learning C and Python
 -  Quietly building my own world.
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux,LinkedIn" />
