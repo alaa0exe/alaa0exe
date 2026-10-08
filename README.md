@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alaa0exe/alaa0exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heey. 🖤
 
-Here are some ideas to get you started:
+### 𝑀𝒶𝓀𝒾𝓂𝒶 𝓌𝒶𝓉𝒸𝒽𝒾𝓃𝑔...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Computer Science Student  
+🔐 Cybersecurity Enthusiast
+
+</div>
+
+---
+
+### 🕯️ About me
+
+- 🌙 L2 Computer Science Student
+- 🔐 Exploring Cybersecurity
+- 💻 Learning C and Python
+- 🖤 Quietly building my own world.
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux" />
+</p>
+
+<div align="center">
+
+`Control is a form of love.`
+<div align="center">
+
+# Heey. 🖤
+</div>
