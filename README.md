@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="./makima-banner.png" width="100%" />
+  <img src="/makima-banner.png" width="100%" />
 </div>
 
 <br>
