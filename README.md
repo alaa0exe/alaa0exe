@@ -21,9 +21,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux,LinkedIn" />
- <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
-</a>
+ 
 </p>
 
 <div align="center">
