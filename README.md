@@ -4,9 +4,6 @@
 
 
 
- who Care's 
-
-</div>
 
 ---
 
@@ -34,6 +31,11 @@
 
 <div align="center">
   <img src="./makima.jpeg" width="100%"  alt="makima banner"/>
+</div>
+
+
+ who Care's 
+
 </div>
 
 <br>
